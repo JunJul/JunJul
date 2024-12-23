@@ -12,25 +12,22 @@
 	
 ## **About me**
 
-<br>
-
 - A passionate Self-taught Machine Learning Engineer
 - Currently learning Aartifical Intelligence and Machien Learning by self
 - Going to the gym and watching anime during my downtime
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://github.com/JunJul/Resume/blob/Master/Resume.pdf))
 
 <br><br>
 
 ## Projects
  - Technology News Insight Engine
+ - [HonKai: Star Rail Players' Review Analysis](https://github.com/JunJul/Topic-Modeling-Honkai-Star-Rail)
 
 <br>
 
 <br><br>
 
 ## Learning
-
-<br>
 
 - ### Data Science
   - Break Through Tech AI Program
@@ -45,7 +42,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
