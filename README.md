@@ -15,7 +15,7 @@
 - A passionate Self-taught Machine Learning Engineer
 - Currently learning Aartifical Intelligence and Machien Learning by self
 - Going to the gym and watching anime during my downtime
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://github.com/JunJul/Resume/blob/Master/Resume.pdf))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/JunJul/Resume/blob/Master/Resume.pdf)
 
 <br><br>
 
