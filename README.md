@@ -35,7 +35,7 @@
   - [Udemy: Data Science 365](https://github.com/JunJul/Udemy-Data-Science-365)
     
 - ### Web Development
-  - Udemy: Full-Stack Web Development
+  - Udemy: The Completed Web Development Bootcamp
 
 <br><br>
 
