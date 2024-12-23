@@ -30,9 +30,9 @@
 ## Learning
 
 - ### Data Science
-  - Break Through Tech AI Program
-  - Building LLMs from Scratch
-  - Udemy: Completed Data Science Courses
+  - [Break Through Tech AI Program](https://github.com/JunJul/Break-Through-Tech-AI)
+  - [Building LLMs from Scratch](https://github.com/JunJul/Learning-Building-LLM-from-Scratch)
+  - [Udemy: Data Science 365](https://github.com/JunJul/Udemy-Data-Science-365)
     
 - ### Web Development
   - Udemy: Full-Stack Web Development
