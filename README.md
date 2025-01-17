@@ -32,6 +32,7 @@
 - ### Data Science
   - [Break Through Tech AI Program](https://github.com/JunJul/Break-Through-Tech-AI)
   - [Building LLMs from Scratch](https://github.com/JunJul/Learning-Building-LLM-from-Scratch)
+  - [Machine Learning with PyTorch and SciKit-Learn](https://github.com/JunJul/Learning-Machine-Learning-with-PyTorch-and-sciKit-Learn)
   - [Udemy: Data Science 365](https://github.com/JunJul/Udemy-Data-Science-365)
     
 - ### Web Development
