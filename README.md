@@ -20,7 +20,7 @@
 <br><br>
 
 ## Projects
- - Technology News Insight Engine
+ - [Technology News Insight Engine](https://github.com/JunJul/Technology-News-Insight-Engine)
  - [HonKai: Star Rail Players' Review Analysis](https://github.com/JunJul/Topic-Modeling-Honkai-Star-Rail)
 
 <br>
