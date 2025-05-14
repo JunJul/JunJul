@@ -21,7 +21,7 @@
 
 ## Projects
  - [Technology News Insight Engine](https://github.com/JunJul/Technology-News-Insight-Engine)
- - [HonKai: Star Rail Players' Review Analysis](https://github.com/JunJul/Topic-Modeling-Honkai-Star-Rail)
+ - [Equitable AI Dermatology: Image Classification Competition](https://github.com/AJL-Team-4/Models)
 
 <br>
 
