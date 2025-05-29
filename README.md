@@ -13,7 +13,7 @@
 ## **About me**
 
 - A passionate Self-taught Machine Learning Engineer
-- Currently learning Aartifical Intelligence and Machien Learning by self
+- Currently learning Aartifical Intelligence and Machine Learning by self
 - Going to the gym and watching anime during my downtime
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/JunJul/Resume/blob/Master/Resume.pdf)
 
