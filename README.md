@@ -22,7 +22,7 @@
 ## Projects
  - [Technology News Insight Engine](https://github.com/JunJul/Technology-News-Insight-Engine)
  - [Equitable AI Dermatology: Image Classification Competition](https://github.com/AJL-Team-4/Models)
- - -[ResNet + CBAM for Absolute Pose Regression](https://github.com/JunJul/Math-156-Project)
+ - [ResNet + CBAM for Absolute Pose Regression](https://github.com/JunJul/Math-156-Project)
 
 <br>
 
